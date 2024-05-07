@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Christian! </h1>
 
-<!--
-**zenithday/zenithday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Certifications </h2>
+
+  - [ Google IT Professional ](https://coursera.org/share/658d570811a6fd81d3574c8997c5e304)
+
+
+<h2> 🤳 Connect with me:</h2>
+
 
 Here are some ideas to get you started:
 
